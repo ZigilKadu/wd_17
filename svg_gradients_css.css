@@ -1,0 +1,34 @@
+﻿.flexWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.flexHeader {
+    
+}
+
+.flexNavBar {
+    border-top: 1.5px solid #1976d2;
+    border-bottom: 1.5px solid #1976d2;
+    text-align: center;
+    max-height: 3em;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.flexContentLeft {
+    margin: 0.5%;
+    flex-grow: 1;
+}
+
+.flexContentRight {
+    margin: 0.5%;
+    flex-grow: 1;
+}
+
+.flexFooter {
+
+}
